@@ -105,6 +105,8 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Cloud Data Fusion](https://cloud.google.com/data-fusion) - "Fully managed, cloud-native data integration platform."
 * [Stitch](https://www.stitchdata.com/) - "Stitch is a cloud-first, open source platform for rapidly moving data. A simple, powerful ETL service, Stitch connects to all your data sources – from databases like MySQL and MongoDB, to SaaS applications like Salesforce and Zendesk – and replicates that data to a destination of your choosing."
 * [Hevo](https://hevodata.com/) - Hevo is a Fully Automated, No-code Data Pipeline Platform that supports 150+ ready-to-use integrations across Databases, SaaS Applications, Cloud Storage, SDKs, and Streaming Services.
+* [Estuary Flow](https://estuary.dev) - Estuary is cloud-native, real-time ETL and Change Data Capture (CDC) platform. It enables continuous data movement from databases, APIs, and event streams to cloud warehouses and lakes, ensuring low-latency, scalable data ingestion.
+
 
 ## Big Data (Hadoop Stack)
 * [Pig](https://pig.apache.org/) - "a platform for analyzing large data sets that consists of a high-level language for expressing data analysis programs, coupled with infrastructure for evaluating these programs."
